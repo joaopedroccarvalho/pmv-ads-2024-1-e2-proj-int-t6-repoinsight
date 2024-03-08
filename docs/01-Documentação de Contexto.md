@@ -16,9 +16,17 @@ Nesse momento, o grupo pode optar por fazer uso  de ferramentas como Design Thin
 
 ## Objetivos
 
-Aqui você deve descrever os objetivos do trabalho indicando que o objetivo geral é desenvolver um software para solucionar o problema apresentado acima. 
+Objetivo Geral Desenvolver uma plataforma de integração entre o Git e sistemas de gestão educacional para otimizar o acompanhamento e avaliação das atividades dos alunos em ambientes de ensino virtual, promovendo uma gestão eficaz do processo de aprendizagem.
 
-Apresente também alguns (pelo menos 2) objetivos específicos dependendo de onde você vai querer concentrar a sua prática investigativa, ou como você vai aprofundar no seu trabalho.
+Objetivos Específicos:
+
+- Facilitar o Acompanhamento Pedagógico: Criar ferramentas que permitam aos professores acompanhar de forma eficiente o progresso dos alunos em atividades desenvolvidas nos repositórios do Git, fornecendo insights valiosos sobre o desempenho individual e coletivo.
+- Promover a Transparência e Accountability: Implementar mecanismos que garantam a transparência no processo de avaliação, como relatórios automáticos de atividades, para promover a accountability e a comunicação eficaz entre alunos e professores.
+- Integrar Ferramentas de Avaliação Automatizada: Integrar ferramentas de avaliação automatizada, como testes unitários e análise estática de código, aos processos de revisão de código e avaliação das atividades dos alunos, para fornecer feedback imediato e personalizado.
+- Estimular a Colaboração e Cooperação: Incentivar a colaboração e cooperação entre alunos, permitindo a revisão de código entre pares, o compartilhamento de recursos e a resolução colaborativa de problemas nos repositórios do Git.
+- Promover a Inovação Pedagógica: Fomentar a adoção de práticas inovadoras de ensino e aprendizagem, como a metodologia de aprendizagem baseada em projetos e a integração de tecnologias emergentes, por meio da utilização eficaz da plataforma integrada Git/sistema de gestão educacional.
+
+Esses objetivos específicos contribuem para alcançar o objetivo geral de desenvolver uma plataforma que aprimore significativamente o acompanhamento e avaliação das atividades dos alunos em ambientes educacionais virtuais, promovendo uma experiência de aprendizagem mais eficaz e satisfatória para todos os envolvidos.
  
 > **Links Úteis**:
 > - [Objetivo geral e objetivo específico: como fazer e quais verbos utilizar](https://blog.mettzer.com/diferenca-entre-objetivo-geral-e-objetivo-especifico/)
